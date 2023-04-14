@@ -1,0 +1,4 @@
+numpy~=1.21.4
+openpyxl~=3.0.9
+xlrd~=1.2.0
+ttkwidgets~=0.12.1
